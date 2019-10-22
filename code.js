@@ -10,8 +10,8 @@ const player = (name, number, marker) => {
     return { name, number, marker};
 };
 
-const firstplayer = player("Joni", "1", "X")
-const secondplayer = player("Poni", "2", "O")
+const firstplayer = player("Player 1", "1", "X")
+const secondplayer = player("Player 2", "2", "O")
 
 
 
